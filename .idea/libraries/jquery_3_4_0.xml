@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jquery-3.4.0" type="javaScript">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/demo/js/res/jquery-3.4.0.js" />
+    </SOURCES>
+  </library>
+</component>
